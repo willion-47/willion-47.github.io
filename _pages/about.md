@@ -16,12 +16,12 @@ latest_posts:
   limit: 5 # leave blank to include all the blog posts
 ---
 
-你好，我是 Willion。
+你好，我是林轩。
 
 我现在主要在学这几件事：
 
-- **优化理论**：预条件方法，以及 ScaledGD 这类算法的收敛率分析。
-- **大模型基础**：精读 CLIP、LLaMA 等经典论文，每篇写一页笔记。
-- **动手项目**：和同学合作的量化项目，以及部署、复现一些开源工作。
+- **优化理论**：预条件方法，优化几何研究。
+- **大模型应用**：RSI，Harness
+- **量化**：RSI 量化
 
-这个博客是我的 build in public：把学习笔记、论文笔记和正在做的事情公开记录下来。欢迎在 GitHub 上找我交流。
+这个博客是我的对 build in public 的实践：把学习笔记、论文笔记和正在做的事情公开记录下来。欢迎在 GitHub 上找我交流。
