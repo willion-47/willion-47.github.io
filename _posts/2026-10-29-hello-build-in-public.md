@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 开张：在这里 build in public
-date: 2026-10-29 20:00:00+0800
+date: 2026-10-29 19:00:00+0800
 description: 这个博客会写什么，以及为什么要公开记录
 tags: build-in-public
 categories: notes
